@@ -14,7 +14,7 @@
 
 ###
 
-<p align="left">Soy de Bogotá Colombia<br><br>📚 Apasionado desarrollador de software disfruto creando soluciones sólidas y escalables para los problemas más complejos. Me gusta explorar nuevas tecnologías y experimentar con diferentes enfoques de programación</p>
+<p align="left">Soy de Bogotá Colombia<br><br>📚 Apasionado desarrollador de software, disfruto creando soluciones sólidas y escalables para los problemas más complejos. Me gusta explorar nuevas tecnologías y experimentar con diferentes enfoques de programación</p>
 
 ###
 

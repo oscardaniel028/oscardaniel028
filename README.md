@@ -1,3 +1,4 @@
+![Texto alternativo de la imagen](bannerGithub.png)
 
 <h1 align="center">Hola 👋, Mi nombre es Oscar Sanchez</h1>
 <h3 align="center">Soy desarrollador de software</h3>

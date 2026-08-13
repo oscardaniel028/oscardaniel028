@@ -11,7 +11,7 @@
 </p>
 
 <p align="center">
-  <img src="bannerGithub.png" alt="Oscar Sanchez - Software Developer" width="100%"/>
+  <img src="Banner.png" alt="Oscar Sanchez - Software Developer" width="100%"/>
 </p>
 
 ---

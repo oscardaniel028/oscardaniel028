@@ -1,8 +1,6 @@
 <h1 align="center">Hi, I'm Oscar Sanchez 👋</h1>
 
-<h3 align="center">
-  Software Developer · C# / .NET · Backend · Automation · AI
-</h3>
+
 
 <p align="center">
   <a href="https://www.linkedin.com/in/oscardaniel028/">
